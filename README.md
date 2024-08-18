@@ -39,4 +39,50 @@ The database schema is designed to efficiently store and manage data related to 
 
 ## Screenshots of the website
 
+### User side
+
 ![image](https://github.com/user-attachments/assets/ee02d91b-6fde-4e86-9e37-3d3936103b64)
+
+![image](https://github.com/user-attachments/assets/f5270d49-8f0a-414f-a90b-b04b15a5f82c)
+
+![image](https://github.com/user-attachments/assets/79deea67-493d-4a4d-a69c-0ff55530d2af)
+
+### Admin side
+
+![image](https://github.com/user-attachments/assets/f507a1ae-7459-425c-ba05-0528a533a5cb)
+
+![image](https://github.com/user-attachments/assets/377da2da-3cfe-4870-844c-7846c68c9a7b)
+
+![image](https://github.com/user-attachments/assets/71668d5c-d421-45b0-9242-13ff21f04ca2)
+
+![image](https://github.com/user-attachments/assets/02f328ee-2f9f-4aab-8151-ab1345f5e21b)
+
+![image](https://github.com/user-attachments/assets/59e2fa01-2a1f-4456-8235-1953c139e7ed)
+
+![image](https://github.com/user-attachments/assets/074f8dad-adca-49ad-b868-d5c3af53681b)
+
+![image](https://github.com/user-attachments/assets/1b47958a-a593-4728-a33c-b54317ac2be2)
+
+![image](https://github.com/user-attachments/assets/9b280e61-9163-403d-afdd-c5afec46b97e)
+
+![image](https://github.com/user-attachments/assets/39a76083-217c-4596-8c55-2382c67f18d7)
+
+![image](https://github.com/user-attachments/assets/4fdfb5a8-765a-4987-bbaf-fe63e07a2103)
+
+![image](https://github.com/user-attachments/assets/701d64fb-5a06-44d9-8e99-04b7fbf3eb57)
+
+![image](https://github.com/user-attachments/assets/4317bd02-ae04-42c4-8537-434e4bff9bdc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
