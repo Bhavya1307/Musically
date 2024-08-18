@@ -37,6 +37,8 @@ The database schema is designed to efficiently store and manage data related to 
 
 ## Thoughts on Laravel - Navjot
 
+-Working on the Music Store project with Laravel was a great learning experience. Laravel made it easier to build features like soft deletes and secure login. Though it was a bit challenging to learn at first, especially with all the different files, I found it very useful. This project helped me improve my PHP skills and showed me how powerful Laravel is for web development. I'm excited to keep learning and using Laravel in future projects.
+
 ## Screenshots of the website
 
 ### User side
